@@ -63,9 +63,9 @@
     },
     
     {
-      "group": "API Documentation",
+      "group": "Blog",
       "pages": [
-        "api-reference/introduction"
+        "blog"
       ]
     },
 
