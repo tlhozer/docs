@@ -28,7 +28,8 @@
   "tabs": [
     {
       "name": "Blog",
-      "url": "blog"
+      "url":"blog.mdx"
+    
       
     }
     
