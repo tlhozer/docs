@@ -68,6 +68,13 @@
         "api-reference/introduction"
       ]
     },
+
+    {
+      "group": "FAQs",
+      "pages": [
+        "api-reference/introduction"
+      ]
+    },
     {
       "group": "Endpoint Examples",
       "pages": [
