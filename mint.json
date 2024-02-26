@@ -27,8 +27,8 @@
   },
   "tabs": [
     {
-      "name": "Blog",
-      "url": "#"
+      "name": "Öğreticiler",
+      "url": "lear.mdx"
       
     }
     
@@ -50,12 +50,8 @@
       "name": "Blog",
       "icon": "newspaper",
       "url": "#"
-    },
-    {
-      "name": "Öğreticiler",
-      "icon": "newspaper",
-      "url": "lear.mdx"
     }
+    
     
   ],
   "navigation": [
