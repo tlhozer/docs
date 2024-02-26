@@ -27,8 +27,8 @@
   },
   "tabs": [
     {
-      "name": "Öğreticiler",
-      "url": "lear.mdx"
+      "name": "Blog",
+      "url": "#"
       
     }
     
@@ -51,7 +51,6 @@
       "icon": "newspaper",
       "url": "#"
     }
-    
     
   ],
   "navigation": [
