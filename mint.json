@@ -28,7 +28,7 @@
   "tabs": [
     {
       "name": "Blog",
-      "url": "api-reference"
+      "url": "#"
       
     }
     
@@ -58,7 +58,9 @@
       "pages": [
         "introduction",
         "quickstart",
-        "development"
+        "development",
+        "lear"
+       
       ]
     },
     
