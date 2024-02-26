@@ -58,8 +58,8 @@
       "pages": [
         "introduction",
         "quickstart",
-        "development",
-        "lear"
+        "development"
+       
        
       ]
     },
@@ -75,6 +75,13 @@
       "group": "FAQs",
       "pages": [
         "faqs"
+      ]
+    },
+
+    {
+      "group": "Öğreticiler",
+      "pages": [
+        "lear"
       ]
     },
     {
