@@ -66,9 +66,9 @@
     },
 
     {
-      "group": "Ekips",
+      "group": "ekips",
       "pages": [
-        "ekips.mdx"
+        "ekips"
       ]
     }
 
