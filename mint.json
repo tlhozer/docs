@@ -52,24 +52,9 @@
        
        
       ]
-    },
-    
-  
-
-    {
-      "group": "FAQs",
-      "pages": [
-        "faqs"
-      ]
-    },
-
-    {
-      "group": "Team",
-      "pages": [
-        "team"
-      ]
     }
-    
+
+  
     
   ],
   "footerSocials": {
